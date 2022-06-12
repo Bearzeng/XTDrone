@@ -9,18 +9,3 @@
 [submodule "PX4-Autopilot"]
 	path = PX4-Autopilot
 	url = https://github.com/Bearzeng/PX4-Autopilot.git
-[submodule "gazebo_models"]
-	path = gazebo_models
-	url = https://github.com/Bearzeng/gazebo_models.git
-[submodule "ros/mavros"]
-	path = ros/mavros
-	url = https://github.com/Bearzeng/mavros.git
-	branch = 1.13.0
-[submodule "ros/mavlink"]
-	path = ros/mavlink
-	url = https://github.com/Bearzeng/mavlink-gbp-release.git
-	branch = release/noetic/mavlink
-[submodule "qgroundcontrol"]
-	path = qgroundcontrol
-	url = https://github.com/Bearzeng/qgroundcontrol.git
-	branch = Stable_V4.1
