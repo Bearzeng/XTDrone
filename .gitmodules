@@ -20,3 +20,7 @@
 [submodule "gazebo/gazebo_models"]
 	path = gazebo/gazebo_models
 	url = https://github.com/Bearzeng/gazebo_models.git
+[submodule "qgc/qgroundcontrol"]
+	path = qgc/qgroundcontrol
+	url = https://github.com/Bearzeng/qgroundcontrol.git
+	branch = Stable_V4.1
